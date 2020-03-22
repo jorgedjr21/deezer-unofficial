@@ -1,0 +1,19 @@
+{
+  "name": "deezer-unofficial",
+  "version": "0.0.1",
+  "description": "Deezer unofficial player",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ." 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jorgedjr21/deezer-unofficial.git"
+  },
+  "author": "jorgedjr21@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jorgedjr21/deezer-unofficial/issues"
+  },
+  "homepage": "https://github.com/jorgedjr21/deezer-unofficial#readme"
+}
